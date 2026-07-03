@@ -1,0 +1,15 @@
+site_name: Applied DS, ML & AI Notebook
+site_url: https://thrisharajkumar.github.io/applied-ds-ml-ai-notebook/
+theme:
+  name: material
+  palette:
+    scheme: default
+  features:
+    - navigation.tabs
+    - search.suggest
+nav:
+  - Home: index.md
+  - Foundations: "02-MOCs/MOC - Foundations.md"
+  - Deep Learning: "02-MOCs/MOC - Deep Learning.md"
+  - Generative & Agentic AI: "02-MOCs/MOC - Generative and Agentic AI.md"
+  - MLOps & Applied Systems: "02-MOCs/MOC - MLOps and Applied Systems.md"
