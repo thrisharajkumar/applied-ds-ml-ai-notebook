@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# AI & ML Landscape\nYour master map. Every paper/note you log gets tagged into one of these four quadrants — over time this shows you where your real expertise is building up.","x":-140,"y":-520,"width":680,"height":110},
+		{"id":"grp-foundations","type":"group","label":"Foundations","x":-760,"y":-350,"width":560,"height":300,"color":"4"},
+		{"id":"file-foundations","type":"file","file":"02-MOCs/MOC - Foundations.md","x":-700,"y":-260,"width":440,"height":120},
+		{"id":"grp-deeplearning","type":"group","label":"Deep Learning","x":-140,"y":-350,"width":560,"height":300,"color":"6"},
+		{"id":"file-deeplearning","type":"file","file":"02-MOCs/MOC - Deep Learning.md","x":-80,"y":-260,"width":440,"height":120},
+		{"id":"grp-genagentic","type":"group","label":"Generative & Agentic AI","x":-760,"y":30,"width":560,"height":300,"color":"1"},
+		{"id":"file-genagentic","type":"file","file":"02-MOCs/MOC - Generative and Agentic AI.md","x":-700,"y":120,"width":440,"height":120},
+		{"id":"grp-mlops","type":"group","label":"MLOps & Applied Systems","x":-140,"y":30,"width":560,"height":300,"color":"5"},
+		{"id":"file-mlops","type":"file","file":"02-MOCs/MOC - MLOps and Applied Systems.md","x":-80,"y":120,"width":440,"height":120},
+		{"id":"note-you","type":"text","text":"**Where you sit:** Deep Learning ∩ Generative AI, applied to clinical/time-series data, wrapped in MLOps discipline. Rare combination — lean into it rather than spreading flat across all four.","x":-760,"y":380,"width":1180,"height":90}
+	],
+	"edges":[]
+}
